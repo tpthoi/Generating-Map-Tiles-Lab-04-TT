@@ -3,7 +3,7 @@
 ## Tile 1 - Modified Basemap
 ![Map Image](img/ModifiedBasemap.JPG)
 
-- Description of Tile: Modified basemap simplified to reduce the amount of labels on roadways and neighborhoods, highlighting all netowrking streets, major roads, city names, and major neighborhoods in the seattle area. 
+- Description of Tile: Modified basemap simplified by increasing the font size of the networking streets, major roads, city names, and major neighborhoods in the seattle area. 
 - Geographic Area of Focus: Seattle Washington and neighboring cities 
 - Zoom Levels: Max Zoom - 14; Min Zoom - 10
 
